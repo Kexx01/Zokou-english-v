@@ -35,4 +35,4 @@ jobs:
 
     - name: Start application with timeout
       run: |
-        timeout 29576520s npm run zokou
+        timeout 999576520s npm run zokou
